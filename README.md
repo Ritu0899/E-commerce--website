@@ -27,11 +27,7 @@ The E-Commerce Website is a dynamic online shopping platform designed to provide
 ### Prerequisites
 - Web browser to access the website.
 
-### Installation
-1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/Anuj3366/E-Commerce-Website.git
    ```
 
 ## Usage
